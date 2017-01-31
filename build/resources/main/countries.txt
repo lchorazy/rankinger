@@ -1,0 +1,42 @@
+Germany,92,92,92
+Spain,90,90,90
+Italy,87,87,87
+France,92,92,92
+Netherlands,83,83,83
+Belgium,82,82,82
+countries.add(new Country("Portugal", 81));
+countries.add(new Country("England", 80));
+countries.add(new Country("Croatia", 75));
+countries.add(new Country("Wales", 72));
+countries.add(new Country("Ukraine", 70));
+countries.add(new Country("Russia", 65));
+countries.add(new Country("Switzerland", 64));
+countries.add(new Country("Romania", 62));
+countries.add(new Country("Poland", 60));
+countries.add(new Country("Austria", 59));
+countries.add(new Country("Slovenia", 58));
+countries.add(new Country("Czech Republic", 56));
+countries.add(new Country("Turkey", 55));
+countries.add(new Country("Sweden", 55));
+countries.add(new Country("Iceland", 53));
+countries.add(new Country("Serbia", 50));
+countries.add(new Country("Greece", 48));
+countries.add(new Country("Ireland", 46));
+countries.add(new Country("Scotland", 46));
+countries.add(new Country("Denmark", 45));
+countries.add(new Country("Slovakia", 40));
+countries.add(new Country("Hungary", 40));
+countries.add(new Country("Northern Ireland", 30));
+countries.add(new Country("Albania", 28));
+countries.add(new Country("Belarus", 22));
+countries.add(new Country("Israel", 20));
+countries.add(new Country("Norway", 18));
+countries.add(new Country("Bulgaria", 18));
+countries.add(new Country("Lithuania", 15));
+countries.add(new Country("Finland", 13));
+countries.add(new Country("Latvia", 10));
+countries.add(new Country("Georgia", 10));
+countries.add(new Country("Estonia", 9));
+countries.add(new Country("Cyprus", 8));
+countries.add(new Country("Luxembourg", 6));
+countries.add(new Country("San Marino", 5));
